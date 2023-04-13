@@ -5,10 +5,10 @@ aqui vão ficar todas as listas do primeiro semestre de DSM - algoritmo e lógic
 🚩
 | listas              | status  |
 | :-----------------: | :---------: |
-| I [](lista1)        | ✅ |
-| II [](lista2)       | ✅ |
-| III [](lista3)      | ✅ |
-| IV [](lista4)       |  |
-| V [](lista5)        |  |
-| VI [](lista6)       |  |
-| VII [](lista7)      |  |
+| I [](lista-1)        | ✅ |
+| II [](lista-2)       | ✅ |
+| III [](lista 3)      | ✅ |
+| IV [](lista 4)       |  |
+| V [](lista_5)        |  |
+| VI [](lista_6)       |  |
+| VII [](lista_7)      |  |
