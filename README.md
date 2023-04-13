@@ -2,5 +2,13 @@
 
 aqui vão ficar todas as listas do primeiro semestre de DSM - algoritmo e lógica de programação
 
-| listas          | concluídas |
-| I (lista_I.txt) |    ✅     |
+🚩
+| listas              | status  |
+| :-----------------: | :---------: |
+| I      | ✅ |
+| II     | ✅ |
+| III    | ✅ |
+| IV     |  |
+| V      |  |
+| VI     |  |
+| VII    |  |
