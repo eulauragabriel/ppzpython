@@ -1,14 +1,25 @@
-### PPZPython
+### ppzpython 👾
 
-aqui vão ficar todas as listas do primeiro semestre de DSM - algoritmo e lógica de programação
+listas de algoritmo e lógica de programação
+<br>
+realizadas no primeiro semestre do curso
+<br>
+de desenvolvimento de software multiplataforma.
 
-🚩
-| listas              | status  |
-| :-----------------: | :---------: |
-| I      | ✅ |
-| II     | ✅ |
-| III    | ✅ |
-| IV     |  |
-| V      |  |
-| VI     |  |
-| VII    |  |
+|    listas    |status|
+|--------------|------|
+| lista I      |  ✅ |
+| lista II     |  ✅ |
+| lista III    |  ✅ |
+| lista IV     |  ✅ |
+| lista V      |  ✅ |
+| lista VI     |  ✅ |
+| lista VII    |  ✅ |
+| lista VIII   |  ✅ |
+| lista IX     |  ✅ |
+| lista X      |  ✅ |
+| lista XI     |  ✅ |
+| lista XII    |  ✅ |
+| lista XIII   |  ✅ |
+| lista XIV    |  ✅ |
+
